@@ -2,8 +2,13 @@
 content_type: resource
 description: "This resource contains the information regarding thought questions for\
   \ \u201Cat middle age\u201D and \u201Clove must not be forgotten\u201D."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-022j-international-womens-voices-spring-2004/28b99315e1f924406bb5b0666b599897_MIT21G_022JS04_f_at.pdf
+file: /media/courses/21g-022j-international-womens-voices-spring-2004/28b99315e1f924406bb5b0666b599897_MIT21G_022JS04_f_at.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: "Thought Questions for \u201CAt Middle Age\u201D and \u201CLove Must Not be\
   \ Forgotten\u201D"

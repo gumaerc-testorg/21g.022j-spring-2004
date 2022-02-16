@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains the information regarding thought questions for
   house of the spirits.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-022j-international-womens-voices-spring-2004/358346cfc8a35f55d539ed6e9fc4a91b_MIT21G_022JS04_forhou2.pdf
+file: /media/courses/21g-022j-international-womens-voices-spring-2004/358346cfc8a35f55d539ed6e9fc4a91b_MIT21G_022JS04_forhou2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Thought Questions for House of the Spirits
 uid: 358346cf-c8a3-5f55-d539-ed6e9fc4a91b
