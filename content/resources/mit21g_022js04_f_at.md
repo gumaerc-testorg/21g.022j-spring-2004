@@ -6,6 +6,7 @@ file: /courses/21g-022j-international-womens-voices-spring-2004/28b99315e1f92440
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "Thought Questions for \u201CAt Middle Age\u201D and \u201CLove Must Not 
 uid: 28b99315-e1f9-2440-6bb5-b0666b599897
 ---
 This resource contains the information regarding thought questions for “at middle age” and “love must not be forgotten”.
-

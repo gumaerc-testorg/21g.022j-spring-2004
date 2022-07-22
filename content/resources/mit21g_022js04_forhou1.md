@@ -6,6 +6,7 @@ file: /courses/21g-022j-international-womens-voices-spring-2004/bcbde746b1b64a08
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Thought Questions for House of the Spirits
 uid: bcbde746-b1b6-4a08-2955-908c9a3c85b6
 ---
 This resource contains the information regarding thought questions for house of the spirits.
-
