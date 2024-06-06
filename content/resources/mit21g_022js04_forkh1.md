@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding thought questions for
   kitchen and moonlight shadow.
 file: /courses/21g-022j-international-womens-voices-spring-2004/b30e0650e82e77132628797e9c859010_MIT21G_022JS04_forkh1.pdf
+file_size: 118606
 file_type: application/pdf
 learning_resource_types:
 - Assignments
