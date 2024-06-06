@@ -3,6 +3,7 @@ content_type: resource
 description: "This resource contains the information regarding thought questions for\
   \ \u201Cat middle age\u201D and \u201Clove must not be forgotten\u201D."
 file: /courses/21g-022j-international-womens-voices-spring-2004/28b99315e1f924406bb5b0666b599897_MIT21G_022JS04_f_at.pdf
+file_size: 130127
 file_type: application/pdf
 learning_resource_types:
 - Assignments
