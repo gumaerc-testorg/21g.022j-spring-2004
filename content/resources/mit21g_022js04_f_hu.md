@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding thought questions for
   house of the spirits.
-file: /ol-ocw-studio-app/courses/21g-022j-international-womens-voices-spring-2004/6041d5ac588f1e76f5ca0fa52ca7cc80_MIT21G_022JS04_f_hu.pdf
+file: /courses/21g-022j-international-womens-voices-spring-2004/6041d5ac588f1e76f5ca0fa52ca7cc80_MIT21G_022JS04_f_hu.pdf
 file_size: 137413
 file_type: application/pdf
 learning_resource_types:
