@@ -3,7 +3,7 @@ content_type: resource
 description: "This resource contains the information regarding thought questions on\
   \ chinese short stories \u201Clove must not be forgotten\u201D and \u201Cat middle\
   \ age\u201D."
-file: /ol-ocw-studio-app/courses/21g-022j-international-womens-voices-spring-2004/cf6323c0b8bbc1211be3abcfc69c615f_MIT21G_022JS04_on_ch.pdf
+file: /courses/21g-022j-international-womens-voices-spring-2004/cf6323c0b8bbc1211be3abcfc69c615f_MIT21G_022JS04_on_ch.pdf
 file_size: 116557
 file_type: application/pdf
 learning_resource_types:
