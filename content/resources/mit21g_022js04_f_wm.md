@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding thought questions for
   woman at point zero.
-file: /courses/21g-022j-international-womens-voices-spring-2004/279f7be4c515eb111580d79b1976e27b_MIT21G_022JS04_f_wm.pdf
+file: /ol-ocw-studio-app/courses/21g-022j-international-womens-voices-spring-2004/279f7be4c515eb111580d79b1976e27b_MIT21G_022JS04_f_wm.pdf
 file_size: 117821
 file_type: application/pdf
 learning_resource_types:
